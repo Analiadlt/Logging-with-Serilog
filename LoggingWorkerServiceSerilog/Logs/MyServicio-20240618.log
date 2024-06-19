@@ -1,0 +1,17 @@
+2024-06-18 18:26:19.417 -03:00 [DBG] Hosting starting
+2024-06-18 18:26:19.478 -03:00 [INF] Worker running at: "2024-06-18T18:26:19.4616558-03:00"
+2024-06-18 18:26:19.488 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-18 18:26:19.490 -03:00 [INF] Hosting environment: Development
+2024-06-18 18:26:19.492 -03:00 [INF] Content root path: D:\Aprendiendo C# - NET\LoggingWorkerServiceSerilog\LoggingWorkerServiceSerilog
+2024-06-18 18:26:19.492 -03:00 [DBG] Hosting started
+2024-06-18 18:26:20.491 -03:00 [INF] Worker running at: "2024-06-18T18:26:20.4874402-03:00"
+2024-06-18 18:26:21.500 -03:00 [INF] Worker running at: "2024-06-18T18:26:21.4968008-03:00"
+2024-06-18 18:26:22.522 -03:00 [INF] Worker running at: "2024-06-18T18:26:22.5195889-03:00"
+2024-06-18 18:26:23.575 -03:00 [INF] Worker running at: "2024-06-18T18:26:23.5442639-03:00"
+2024-06-18 18:26:24.586 -03:00 [INF] Worker running at: "2024-06-18T18:26:24.5830401-03:00"
+2024-06-18 18:26:25.598 -03:00 [INF] Worker running at: "2024-06-18T18:26:25.5954244-03:00"
+2024-06-18 18:43:42.589 -03:00 [ERR] Ocurrió un error al ejecutar
+2024-06-18 18:43:43.621 -03:00 [ERR] Ocurrió un error al ejecutar
+2024-06-18 18:43:44.642 -03:00 [ERR] Ocurrió un error al ejecutar
+2024-06-18 18:43:45.664 -03:00 [ERR] Ocurrió un error al ejecutar
+2024-06-18 18:43:46.689 -03:00 [ERR] Ocurrió un error al ejecutar
